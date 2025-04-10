@@ -1,5 +1,5 @@
 {
-  "name": "react-router-experiment",
+  "name": "react-router-experiment-host",
   "private": true,
   "type": "module",
   "scripts": {
@@ -17,6 +17,7 @@
     "react-router": "^7.5.0"
   },
   "devDependencies": {
+    "@module-federation/vite": "1.2.6",
     "@react-router/dev": "^7.5.0",
     "@tailwindcss/vite": "^4.0.0",
     "@types/node": "^20",
